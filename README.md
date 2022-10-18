@@ -1,5 +1,5 @@
 # LeetCode problems
-Solutions to (LeetCode problems)[https://leetcode.com/problemset/all/].
+Solutions to [LeetCode problems](https://leetcode.com/problemset/all/).
 ## Stats
 Total solved: 3
 | Easy | Medium | Hard |
